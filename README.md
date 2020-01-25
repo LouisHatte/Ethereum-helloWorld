@@ -46,13 +46,17 @@ truffle migrate --reset
 
 After creating an account and logging in, you need to add ganache to the list of Metamask networks. To do so, follow the images below :
 
-<img src="assets/metaMaskTuto1.png" width=250 /><img src="assets/metaMaskTuto2.png" width=250 /><img src="assets/metaMaskTuto3.png" width=250 />
+<img src="assets/metaMaskTuto1.png" width=250 />\
+<img src="assets/metaMaskTuto2.png" width=250 />\
+<img src="assets/metaMaskTuto3.png" width=250 />
 
 Then you have to import an account from your local blockchain like so :
 
 <img src="assets/metaMaskTuto4.png" width=700 />
 <img src="assets/metaMaskTuto5.png" width=700 />
-<img src="assets/metaMaskTuto6.png" width=250 /><img src="assets/metaMaskTuto7.png" width=250 /><img src="assets/metaMaskTuto8.png" width=250 />
+<img src="assets/metaMaskTuto6.png" width=250 />\
+<img src="assets/metaMaskTuto7.png" width=250 />\
+<img src="assets/metaMaskTuto8.png" width=250 />
 
 ### V. Run the project
 
