@@ -50,6 +50,11 @@ After creating an account and logging in, you need to add ganache to the list of
 
 Then you have to import an account from your local blockchain like so :
 
+<img src="assets/metaMaskTuto4.png" width=700 />
+<img src="assets/metaMaskTuto5.png" width=700 />
+
+To add it into MetaMask :
+
 <img src="assets/metaMaskTuto6.png" width=250 /><img src="assets/metaMaskTuto7.png" width=250 /><img src="assets/metaMaskTuto8.png" width=250 />
 
 ### V. Run the project
