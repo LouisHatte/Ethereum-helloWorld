@@ -81,7 +81,7 @@ truffle(development)> instance.message()
 truffle(development)> instance.update('New value')
 truffle(development)> instance.message()
 'New value'
-.exit
+truffle(development)> .exit
 ```
 To see the change in your browser, reload the page after a few seconds.
 
