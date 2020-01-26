@@ -13,13 +13,13 @@ In this project you can :
 
 ### I. Prerequisites
 
-1. You will need **nodeJS** and **npm** (Node Package Manager) to get all dependencies and run the project. Then, install **truffle** with npm so that you can compile, test and deploy smart contracts
+1. You will need **nodeJS** and **npm** (Node Package Manager) to get all dependencies and run the project. Then, install **truffle** with npm so that you can compile, test and deploy smart contracts.
     ```sh
     sudo apt-get install nodejs
     npm install -g truffle
     ```
-2. Then download <img src="assets/ganache.png" width=20 />[**Ganache**](https://www.trufflesuite.com/ganache), a local blockchain to simulate Ethereum's blockchain
-3. Finally, download <img src="assets/metaMask.png" width=20 />[**MetaMask**](https://metamask.io/), a Google chrome extension to communicate between Chrome and Ganache
+2. Then download <img src="assets/ganache.png" width=20 />[**Ganache**](https://www.trufflesuite.com/ganache), a local blockchain to simulate Ethereum's blockchain.
+3. Finally, download <img src="assets/metaMask.png" width=20 />[**MetaMask**](https://metamask.io/), a Google chrome extension to communicate between Chrome and Ganache.
 
 ### II. <img src="assets/ganache.png" width=20 /> Run ganache
 
@@ -28,7 +28,7 @@ Find out where you downloaded ganache and run it like this:
 chmod 755 yourGanache.AppImage
 ./yourGanache.AppImage
 ```
-Then click on **Quick Start** to get Ganache running
+Then click on **Quick Start** to get Ganache running.
 
 ### III. Project set up
 
@@ -59,7 +59,7 @@ To add it into MetaMask :
 
 ### V. Run the project
 
-Make sure that you have Ganache running and MetaMask connected on Ganache with a Ganache account then you can run the project :
+Make sure that you have **Ganache running** and **MetaMask connected on Ganache with a Ganache account** then you can run the project :
 ```sh
 cd Ethereum-helloWorld/
 sudo npm run start
@@ -83,6 +83,7 @@ truffle(development)> instance.message()
 'New value'
 .exit
 ```
+To see the change in your browser, reload the page after a few seconds.
 
 ## TODO
 1. Add logo
