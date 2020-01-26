@@ -32,14 +32,14 @@ Then click on **Quick Start** to get Ganache running.
 
 ### III. Project set up
 
-Now that Ganache is running you have everything you need to set up the project. You can clone the repository, download required dependencies, compile smart contracts, test them and deploy them on Ganache like so :
+Now that Ganache is running you have everything you need to set up the project. You can clone the repository, download required dependencies, compile smart contracts, deploy them on Ganache and test them like so :
 ```sh
 git clone git@github.com:LouisHatte/Ethereum-helloWorld.git
 cd Ethereum-helloWorld/
 sudo npm install
 truffle compile
-truffle test
 truffle migrate --reset
+truffle test
 ```
 
 ### IV. <img src="assets/metaMask.png" width=20 /> Configure MetaMask
