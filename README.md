@@ -84,7 +84,3 @@ truffle(development)> instance.message()
 truffle(development)> .exit
 ```
 To see the change in your browser, reload the page after a few seconds.
-
-## TODO
-1. Add logo
-2. boyscoot
